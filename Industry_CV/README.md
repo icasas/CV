@@ -1,11 +1,6 @@
-# Isabel Casas
-
-**Associate Professor | Data Scientist | R Developer**  
-Bilbao, Spain  
-casasis@gmail.com  
-www.icasas.web 
-
-**Unravelling uncertainty with Statistics and Computing** 
+| | |
+|---|---|
+| **Isabel Casas** <br> Associate Professor | Data Scientist <br> Bilbao, Spain <br> [GitHub: icasas](https://github.com/icasas) <br> Unravelling uncertainty with Statistics and Computing | ![Isabel Casas](./DataAnalyst/image_sitting2.png) |
 
 ---
 
