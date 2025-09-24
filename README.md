@@ -51,4 +51,4 @@ Outside of work, I love:
 
 Here you can download my CVs:
 - [Academic CV](https://github.com/icasas/CV/tree/main/Academic_CV)
-- [Industry CV](link-to-industry-cv)
+- [Industry CV](https://github.com/icasas/CV/tree/main/Industry_CV)
