@@ -38,7 +38,7 @@ Outside of work, I enjoy:
 ------------------------------------------------------------------------
 ## Contact 📫
 
--   [**Email:**](mailto:icasas@deusto.es)
+-   [**Email**](mailto:icasas@deusto.es)
 
 ## My detailed CVs (pdfs):
 - [Academic CV](https://github.com/icasas/CV/tree/main/Academic_CV)
