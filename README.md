@@ -2,27 +2,18 @@
 
 Welcome to my CV page!
 
-I'm an Associate Professor, based in Bilbao, with a passion for econometrics and time series analysis.
+When someone asks me what I do for a living, I say: *"I try to understand uncertainty"*. In my experience, this cryptic message catches the listener's interest more than: *"I work in Statistics"*.
 
-------------------------------------------------------------------------
+I also get on very well with **computers** 🤖 — you just have to talk to them precisely, and once you do, they'll happily do everything you ask.
 
-## About Me
+- I have an academic career since starting my PhD in Statistics in 2002, just after my experience as a software engineer in industry. 
 
-Outside of work, I love:
-- Surfing the waves 🌊
-- Playing guitar and concerts 🎸
-- Hiking in the mountains 🏔️  
+- My work in econometrics and time series has often gone beyond theory, focusing on applications like **forecasting energy production** or **developing models and tools for applied decision making**.  
 
+- I’m curious, adaptable, and motivated by projects that create an impact.  
 
-------------------------------------------------------------------------
-
-## Research Interests 
-
--   Semiparametric and nonparametric econometrics
--   Time-varying coefficient models
--   Time series analysis and applications to finance
--   Renewable energies, especially wave energy
--   R programming and statistical software development
+🌍 Based in Bilbao, Spain  
+📊 Open to industry opportunities  
 
 ------------------------------------------------------------------------
 
@@ -30,25 +21,25 @@ Outside of work, I love:
 
 ### R Packages
 
--   **tvReg**: Time-varying coefficients in multi-equation regression models
+-   **tvReg**: Time-varying coefficients in multi-equation regression models, with more than 1000 downloads per month
 
 ### Research Highlights
 
 -   **Electricity Forecasting:** Research on wave energy and electricity trading from the Mutriku wave power plant
 -   **Financial and Econometric Research:** Work on stochastic volatility, portfolio allocation, and empirical macroeconomics
 
-### Academic Contributions
-
--   Supervision of Bachelor, Master, and PhD projects
--   Editorial and referee activities in international journals
--   Guest editor of special issues in *Journal of Risk and Financial Management* and *Econometrics*
-
 ------------------------------------------------------------------------
+## About Me
 
+Outside of work, I enjoy:
+- Surfing the waves 🌊
+- Playing guitar 🎸
+- Hiking in the mountains 🏔️
+------------------------------------------------------------------------
 ## Contact 📫
 
--   **Email:** [icasas\@deusto.es](mailto:icasas@deusto.es)
+-   [**Email**](mailto:icasas@deusto.es)
 
-Here you can download my CVs:
+## My detailed CVs (pdfs):
 - [Academic CV](https://github.com/icasas/CV/tree/main/Academic_CV)
 - [Industry CV](https://github.com/icasas/CV/tree/main/Industry_CV)
